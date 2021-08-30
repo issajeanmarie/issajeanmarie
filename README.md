@@ -35,8 +35,7 @@ And more...
 
 <br />
 
-``
-Let's talk something important
+``Let's talk something important
 ``
 
 <br />
