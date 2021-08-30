@@ -29,6 +29,10 @@ And more...
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issajeanmarie&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+<br />
+
 ### Follow me:
 [<img align="left" alt="codes.study" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/codes.study/)
 [<img align="left" alt="NDUWAYEZU Jean Marie Vianney" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://twitter.com/Issa_Jean_Marie)
