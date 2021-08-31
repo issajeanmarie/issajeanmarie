@@ -14,6 +14,12 @@ const aboutMe () => {
 
 <br />
 
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Issa Jean Marie's github stats](https://github-readme-stats.vercel.app/api?username=issajeanmarie&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/issajeanmarie)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issajeanmarie&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/issajeanmarie)|![issajeanmarie](https://github-readme-streak-stats.herokuapp.com/?user=issajeanmarie&theme=dark)
+
+<br />
+
 ### What I know:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,22 +35,11 @@ And more...
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issajeanmarie&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+### Let's talk something important:
+
+[![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/codes.study/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nduwayezu-jean-marie-vianney-509660151/) [![Connect on Stackoverflow](https://img.shields.io/badge/--Stackoverflow?label=Stackoverflow&logo=Stackoverflow&style=social)](https://stackoverflow.com/users/10853763/issa) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Issa_Jean_Marie) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](jeanmarieissa@gmail.com)
 
 <br />
-
-### Follow me:
-[<img align="left" alt="codes.study" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/codes.study/)
-[<img align="left" alt="NDUWAYEZU Jean Marie Vianney" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://twitter.com/Issa_Jean_Marie)
-
-<br />
-
-``Let's talk something important
-``
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=issajeanmarie&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <!--
 **issajeanmarie/issajeanmarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
