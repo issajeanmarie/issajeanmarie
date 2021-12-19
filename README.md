@@ -1,15 +1,10 @@
 ### Hello World! 👋
 <br />
 
-```javascript
-const aboutMe () => {
-  const myName = 'Issa Jean Marie'
-  const iAm = 'Front-End Web Developer'
-  const iLike = 'Design and creativity'
-  
-  return 'I PUSH TO THE MASTER'
-}
-```
+I am a passionate software developer with much interest in Front-end.
+I have built different projects including big companies dashboards and landing pages.
+I have worked in big companies such as Awesomity Lab and Deriv.com. I believe and work for improvement.
+I hope we will meet one day!
 
 
 <br />
