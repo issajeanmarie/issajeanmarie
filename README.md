@@ -1,10 +1,7 @@
 ### Hello World! 👋
 <br />
 
-I am a passionate software developer with much interest in Front-end.
-I have built different projects including big companies dashboards and landing pages.
-I have worked in big companies such as Awesomity Lab and Deriv.com. I believe and work for improvement.
-I hope we will meet one day!
+Issa Jean Marie is a Software developer with much interest in front-end. He is also into UI/UX design to create inspiring and high engaging user interfaces.
 
 
 <br />
