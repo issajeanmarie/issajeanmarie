@@ -29,7 +29,7 @@ And more...
 
 ### Let's talk something important:
 
-[![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/codes.study/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nduwayezu-jean-marie-vianney-509660151/) [![Connect on Stackoverflow](https://img.shields.io/badge/--Stackoverflow?label=Stackoverflow&logo=Stackoverflow&style=social)](https://stackoverflow.com/users/10853763/issa) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Issa_Jean_Marie) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](jeanmarieissa@gmail.com)
+[![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/issadevs/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/issadevs/) [![Connect on Stackoverflow](https://img.shields.io/badge/--Stackoverflow?label=Stackoverflow&logo=Stackoverflow&style=social)](https://stackoverflow.com/users/10853763/issa) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/issadevs) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](jeanmarieissa@gmail.com)
 
 
 <!--
